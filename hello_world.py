@@ -1,1 +1,0 @@
-print("Kia ora, World!")
